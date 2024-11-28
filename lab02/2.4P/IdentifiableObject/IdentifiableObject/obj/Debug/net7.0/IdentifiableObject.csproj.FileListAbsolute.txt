@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/refint/IdentifiableObject.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.4P/IdentifiableObject/IdentifiableObject/obj/Debug/net7.0/ref/IdentifiableObject.dll

@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/bin/Debug/net7.0/CounterTask
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/bin/Debug/net7.0/CounterTask.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/bin/Debug/net7.0/CounterTask.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/bin/Debug/net7.0/CounterTask.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/refint/CounterTask.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/CounterTask.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.2P/2.2P/obj/Debug/net7.0/ref/CounterTask.dll

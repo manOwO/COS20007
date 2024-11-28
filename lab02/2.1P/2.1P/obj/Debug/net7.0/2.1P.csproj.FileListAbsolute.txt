@@ -1,0 +1,15 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/bin/Debug/net7.0/2.1P
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/bin/Debug/net7.0/2.1P.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/bin/Debug/net7.0/2.1P.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/bin/Debug/net7.0/2.1P.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/bin/Debug/net7.0/2.1P.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.csproj.AssemblyReference.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/refint/2.1P.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/2.1P.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.1P/2.1P/obj/Debug/net7.0/ref/2.1P.dll

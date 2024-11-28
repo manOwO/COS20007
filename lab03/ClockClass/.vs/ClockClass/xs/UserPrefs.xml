@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{0FA7C76B-1881-483D-B89B-D0A1167C4D02}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../lab02/2.2P/2.2P/Counter.cs">
+    <Files>
+      <File FileName="ClockClass/Program.cs" />
+      <File FileName="ClockClass/Clock.cs" Line="14" Column="4" />
+      <File FileName="ClockTest/UnitTest1.cs" Line="1" Column="15" />
+      <File FileName="../../lab02/2.2P/2.2P/Counter.cs" Line="1" Column="1" />
+      <File FileName="CounterTest/UnitTest1.cs" />
+      <File FileName="ClockTest/Usings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClockClass" expanded="True">
+            <Node name="ClockClass" expanded="True" />
+            <Node name="ClockTest" expanded="True">
+              <Node name="Counter.cs" selected="True" />
+            </Node>
+            <Node name="CounterTask" expanded="True" />
+            <Node name="CounterTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ClockClass" selected="True">
+            <Node name="ClockTest" expanded="True">
+              <Node name="ClockTest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CounterTest" expanded="True">
+              <Node name="CounterTest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ClockClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

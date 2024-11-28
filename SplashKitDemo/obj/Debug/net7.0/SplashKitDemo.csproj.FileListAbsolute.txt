@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/bin/Debug/net7.0/SplashKitDemo.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/refint/SplashKitDemo.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/SplashKitDemo.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SplashKitDemo/obj/Debug/net7.0/ref/SplashKitDemo.dll

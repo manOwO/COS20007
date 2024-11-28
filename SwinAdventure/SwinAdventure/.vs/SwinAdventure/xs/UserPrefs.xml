@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EF4678C3-6D86-4517-85FF-4CE4F3B3BE01}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/Program.cs">
+    <Files>
+      <File FileName="SwinAdventure/Path.cs" />
+      <File FileName="SwinAdventure/MoveCommand.cs" />
+      <File FileName="SwinAdventure/Command.cs" />
+      <File FileName="SwinAdventure/Bag.cs" />
+      <File FileName="SwinAdventure/Game Object.cs" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" />
+      <File FileName="SwinAdventure/IHaveInventory.cs" />
+      <File FileName="SwinAdventure/Inventory.cs" />
+      <File FileName="SwinAdventure/Item.cs" />
+      <File FileName="SwinAdventure/Location.cs" />
+      <File FileName="SwinAdventure/Look Command.cs" />
+      <File FileName="SwinAdventure/Player.cs" />
+      <File FileName="SwinAdventure/Program.cs" Line="9" Column="6" />
+      <File FileName="SwinAdventure/CommandProcessor.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

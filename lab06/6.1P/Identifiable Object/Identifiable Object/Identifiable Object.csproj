@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Identifiable_Object</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\lab05\5.2P\IdentifiableObject\IdentifiableObject\Bag.cs">
+      <Link>Bag.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\lab04\Identifiable Object\Identifiable Object\Game Object.cs">
+      <Link>Game Object.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\lab04\Identifiable Object\Identifiable Object\IdentifiableObject.cs">
+      <Link>IdentifiableObject.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\lab04\Identifiable Object\Identifiable Object\Inventory.cs">
+      <Link>Inventory.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\lab04\Identifiable Object\Identifiable Object\Item.cs">
+      <Link>Item.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\..\lab04\Identifiable Object\Identifiable Object\Player.cs">
+      <Link>Player.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifiableObject", "IdentifiableObject\IdentifiableObject.csproj", "{A3963E65-F65E-40EC-BA90-5A609AB5D8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwinAdventure", "SwinAdventure\SwinAdventure.csproj", "{5C8F2D23-7848-4C2F-B653-4F0DFC858368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3963E65-F65E-40EC-BA90-5A609AB5D8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3963E65-F65E-40EC-BA90-5A609AB5D8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3963E65-F65E-40EC-BA90-5A609AB5D8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3963E65-F65E-40EC-BA90-5A609AB5D8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8F2D23-7848-4C2F-B653-4F0DFC858368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8F2D23-7848-4C2F-B653-4F0DFC858368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8F2D23-7848-4C2F-B653-4F0DFC858368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8F2D23-7848-4C2F-B653-4F0DFC858368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E503B310-5CD3-47F4-83FA-1B479486F7CB}
+	EndGlobalSection
+EndGlobal

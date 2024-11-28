@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/bin/Debug/net7.0/SwinAdventure
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/bin/Debug/net7.0/SwinAdventure.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/bin/Debug/net7.0/SwinAdventure.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/bin/Debug/net7.0/SwinAdventure.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/bin/Debug/net7.0/SwinAdventure.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/refint/SwinAdventure.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/SwinAdventure.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/SwinAdventure/SwinAdventure/SwinAdventure/obj/Debug/net7.0/ref/SwinAdventure.dll

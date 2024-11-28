@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{FE71C4A4-3C51-45FB-A42A-6AD2E929A0F4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ItemUnitTests FirstBuild="True" />
+  <DisabledProjects>
+    <String>../PlayerUnitTests/PlayerUnitTests.csproj</String>
+    <String>../InventoryUnitTests/InventoryUnitTests.csproj</String>
+    <String>../ItemUnitTests/ItemUnitTests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Identifiable_220Object PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ItemUnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="Game Object.cs" Line="6" Column="18" />
+      <File FileName="Inventory.cs" />
+      <File FileName="Item.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="IdentifiableObject.cs" />
+      <File FileName="Player.cs" />
+      <File FileName="../ItemUnitTests/UnitTest1.cs" Line="5" Column="25" />
+      <File FileName="../InventoryUnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="../PlayerUnitTests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identifiable Object" expanded="True">
+            <Node name="Identifiable Object" expanded="True" />
+            <Node name="InventoryUnitTests" expanded="True" />
+            <Node name="ItemUnitTests">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="PlayerUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PlayerUnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.InventoryUnitTests FirstBuild="True" />
+</Properties>

@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.5.0" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.4.2" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.6.1" />
+    <PackageReference Include="coverlet.collector" Version="3.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Bag.cs">
+      <Link>Bag.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\IHaveInventory.cs">
+      <Link>IHaveInventory.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Inventory.cs">
+      <Link>Inventory.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Command.cs">
+      <Link>Command.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Item.cs">
+      <Link>Item.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Game Object.cs">
+      <Link>Game Object.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Location.cs">
+      <Link>Location.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\IdentifiableObject.cs">
+      <Link>IdentifiableObject.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Look Command.cs">
+      <Link>Look Command.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Player.cs">
+      <Link>Player.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\MoveCommand.cs">
+      <Link>MoveCommand.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\SwinAdventure\SwinAdventure\SwinAdventure\Path.cs">
+      <Link>Path.cs</Link>
+    </Compile>
+  </ItemGroup>
+</Project>

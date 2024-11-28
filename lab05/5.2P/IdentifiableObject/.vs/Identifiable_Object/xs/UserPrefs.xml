@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4333D6BD-9816-405C-9B10-AF7FC82D2922}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject/UnitTest1.cs">
+    <Files>
+      <File FileName="IdentifiableObject/Bag.cs" Line="27" Column="34" />
+      <File FileName="IdentifiableObject/UnitTest1.cs" Line="12" Column="24" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Player.cs" Line="18" Column="5" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Item.cs" Line="8" Column="1" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Inventory.cs" Line="1" Column="1" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Game Object.cs" Line="8" Column="28" />
+      <File FileName="IdentifiableObject/Usings.cs" Line="1" Column="1" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/IdentifiableObject.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identifiable_Object" expanded="True">
+            <Node name="BagUnitTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Identifiable_Object" selected="True">
+            <Node name="BagUnitTest" expanded="True">
+              <Node name="Identifiable_Object" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BagUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

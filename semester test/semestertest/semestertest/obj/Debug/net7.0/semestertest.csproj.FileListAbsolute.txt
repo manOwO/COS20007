@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/bin/Debug/net7.0/semestertest
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/bin/Debug/net7.0/semestertest.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/bin/Debug/net7.0/semestertest.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/bin/Debug/net7.0/semestertest.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/bin/Debug/net7.0/semestertest.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/refint/semestertest.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/semestertest.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/semester test/semestertest/semestertest/obj/Debug/net7.0/ref/semestertest.dll

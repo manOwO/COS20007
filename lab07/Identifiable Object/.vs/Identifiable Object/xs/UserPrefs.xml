@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CA831F95-8C15-4515-8F58-4E122BA6EA5D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Identifiable Object/Location.cs">
+    <Files>
+      <File FileName="Identifiable Object/Program.cs" />
+      <File FileName="../../lab06/6.1P/Identifiable Object/LookCommandUnitTest/Look Command.cs" />
+      <File FileName="../../lab06/6.1P/Identifiable Object/LookCommandUnitTest/IHaveInventory.cs" />
+      <File FileName="../../lab04/Identifiable Object/Identifiable Object/Player.cs" />
+      <File FileName="../../lab04/Identifiable Object/Identifiable Object/Inventory.cs" />
+      <File FileName="LocationUnitTest/UnitTest1.cs" />
+      <File FileName="../../lab04/Identifiable Object/Identifiable Object/Item.cs" />
+      <File FileName="../../lab04/Identifiable Object/Identifiable Object/Game Object.cs" />
+      <File FileName="../../lab04/Identifiable Object/Identifiable Object/IdentifiableObject.cs" />
+      <File FileName="Identifiable Object/Location.cs" Line="16" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identifiable Object" expanded="True">
+            <Node name="Identifiable Object" expanded="True">
+              <Node name="Location.cs" selected="True" />
+            </Node>
+            <Node name="LocationUnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Identifiable Object" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Identifiable_220Object PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

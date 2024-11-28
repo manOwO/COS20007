@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/bin/Debug/net7.0/ClockClass
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/bin/Debug/net7.0/ClockClass.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/bin/Debug/net7.0/ClockClass.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/bin/Debug/net7.0/ClockClass.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/bin/Debug/net7.0/ClockClass.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/refint/ClockClass.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ClockClass.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab03/ClockClass/ClockClass/obj/Debug/net7.0/ref/ClockClass.dll

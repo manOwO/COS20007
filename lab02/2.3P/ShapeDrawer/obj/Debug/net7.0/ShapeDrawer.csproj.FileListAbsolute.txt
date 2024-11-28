@@ -1,0 +1,14 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab02/2.3P/ShapeDrawer/obj/Debug/net7.0/ref/ShapeDrawer.dll

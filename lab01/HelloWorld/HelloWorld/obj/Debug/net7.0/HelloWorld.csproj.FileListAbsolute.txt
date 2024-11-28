@@ -1,0 +1,15 @@
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/maiannguyen/Documents/coding/uni/cos20007/lab01/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

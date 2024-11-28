@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BA1CC8DA-013F-4401-B44C-A7EABD84F611}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LookCommandUnitTest/UnitTest1.cs">
+    <Files>
+      <File FileName="LookCommandUnitTest/UnitTest1.cs" Line="55" Column="56" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Player.cs" Line="8" Column="30" />
+      <File FileName="LookCommandUnitTest/Look Command.cs" Line="51" Column="58" />
+      <File FileName="../../../lab04/Identifiable Object/Identifiable Object/Inventory.cs" Line="47" Column="11" />
+      <File FileName="LookCommandUnitTest/IHaveInventory.cs" Line="1" Column="1" />
+      <File FileName="../../../lab05/5.2P/IdentifiableObject/IdentifiableObject/Bag.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identifiable Object" expanded="True">
+            <Node name="LookCommandUnitTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Identifiable Object">
+            <Node name="LookCommandUnitTest">
+              <Node name="Identifiable_Object" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="LookAtGemInBag - 1d79d514-d5c7-7c20-3ed4-fca3fc705acc" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LookCommandUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

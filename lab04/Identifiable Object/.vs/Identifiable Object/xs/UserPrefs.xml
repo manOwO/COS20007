@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{47838DC3-6362-48A9-8CEA-893721C1D7CC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Identifiable_220Object PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayerUnitTests/UnitTest1.cs">
+    <Files>
+      <File FileName="Identifiable Object/Item.cs" Line="1" Column="1" />
+      <File FileName="ItemUnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="Identifiable Object/Game Object.cs" Line="1" Column="1" />
+      <File FileName="Identifiable Object/IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="InventoryUnitTests/UnitTest1.cs" />
+      <File FileName="PlayerUnitTests/UnitTest1.cs" Line="16" Column="6" />
+      <File FileName="Identifiable Object/Player.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identifiable Object" expanded="True">
+            <Node name="Identifiable Object" expanded="True" />
+            <Node name="InventoryUnitTests" expanded="True" />
+            <Node name="ItemUnitTests" expanded="True" selected="True" />
+            <Node name="PlayerUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

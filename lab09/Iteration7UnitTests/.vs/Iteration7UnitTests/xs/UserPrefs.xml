@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{676BB7E8-82C3-44F8-8A59-7B072813E049}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../SwinAdventure/SwinAdventure/SwinAdventure/MoveCommand.cs">
+    <Files>
+      <File FileName="PathUnitTest/UnitTest1.cs" Line="11" Column="9" />
+      <File FileName="MoveCommandUnitTest/UnitTest1.cs" Line="8" Column="41" />
+      <File FileName="../../SwinAdventure/SwinAdventure/SwinAdventure/Path.cs" Line="20" Column="59" />
+      <File FileName="../../SwinAdventure/SwinAdventure/SwinAdventure/MoveCommand.cs" Line="39" Column="18" />
+      <File FileName="../../SwinAdventure/SwinAdventure/SwinAdventure/Location.cs" Line="76" Column="6" />
+      <File FileName="../../SwinAdventure/SwinAdventure/SwinAdventure/Game Object.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration7UnitTests" expanded="True">
+            <Node name="PathUnitTest">
+              <Node name="MoveCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PathUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
